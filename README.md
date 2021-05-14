@@ -1,5 +1,6 @@
 # Data Analytics with degital music store database
 In this project, I worked on data analysis of a database of a fictitious degital music shop like iTunes store. 
+SQLite queries and presentation are in Jupyter notebook file "music_shop_data_analysis.ipynb".
 
 ## Database
 This database is called Chinook and publicly available from [here](https://github.com/lerocha/chinook-database). I worked with SQLite portable database 'chinook.db'. 
